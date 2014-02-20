@@ -1,11 +1,11 @@
 /*
  * Module dependencies
  */
-var offset = require('offset');
-var event = require('event');
-var raf = require('raf');
-var bind = require('bind');
-var asap = require('asap');
+var offset = require('anthonyshort-offset');
+var event = require('component-event');
+var raf = require('component-raf');
+var bind = require('component-bind');
+var asap = require('johntron-asap');
 
 /*
  * Export ScrollSpy
